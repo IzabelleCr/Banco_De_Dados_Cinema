@@ -1,7 +1,9 @@
 ## Banco De Dados Cinema
 
 
-###### Este projeto visa criar um sistema de gerenciamento de banco de dados para um cinema, permitindo o controle de clientes, funcionários, filmes, sessões, ingressos, vendas e métodos de pagamento. O desenvolvimento foi realizado em três etapas principais: modelagem conceitual, lógica e física, utilizando a linguagem SQL para a implementação do modelo físico.
+###### O processo de viver as emoções nas telonas exige um conjunto de informações para fazer, de maneira detalhada e precisa, o funcionamento detalhado das atividades que incorporam este meio. Neste cenário, deve-se levar em conta tanto o caso dos funcionários quanto dos clientes, visto que ambos têm especificações e conteúdos diferentes. De um lado, o funcionário busca saber da receita das vendas feitas no dia.  Do outro, o cliente quer saber a descrição e o gênero do filme que vai assistir e, em seguida, selecionar o assento para a sessão em que ele busca ingressar.  
+A proposta deste documento é apresentar, de maneira técnica, a modelagem para um sistema de gerenciamento de um cinema. Para isso, foi necessária a elaboração de um projeto de banco de dados através dos modelos conceitual e lógico e físico, para incorporar esses elementos e, mais tarde, levá-los às ferramentas de programação com o intuito de executar simulações físicas.
+
 
 ## Estrutura do Banco de Dados
 #### Modelos de Dados
