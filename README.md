@@ -9,7 +9,7 @@ A proposta deste documento é apresentar, de maneira técnica, a modelagem para 
 #### Modelos de Dados
 ###### Modelo Conceitual
 O modelo conceitual identifica os principais componentes do sistema de gerenciamento de cinema:
--	Entidades:
+#### Entidades:
 -	Filmes
 -	Clientes
 -	Sessões
